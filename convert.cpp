@@ -19,7 +19,7 @@ int main() {
     // NAMA FILE GAMBAR INPUT
     // =====================================
 
-    string inputFile = "input/me_with_abil.jpg";
+    string inputFile = "input/foto1.jpg";
 
     // =====================================
     // MEMBACA GAMBAR
